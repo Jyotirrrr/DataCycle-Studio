@@ -1,5 +1,5 @@
 # DataCycle Studio <br/>
-Check out this app by click on this <a href="imbalanced-learn"> Click here</a> <br/>
+Check out this app by click on this <a href="https://datacycle-studio.streamlit.app/"> Click here</a> <br/>
 ## Overview <br/>
 This project is a comprehensive, interactive web application built with Streamlit that provides an end-to-end platform for data analysis and machine learning. The app guides users through a full data science workflow, from raw data ingestion and exploration to advanced predictive modeling and model interpretability.
 
