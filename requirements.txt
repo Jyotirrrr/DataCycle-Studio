@@ -7,3 +7,4 @@ plotly
 shap
 scikit-learn
 xgboost
+imbalanced-learn
